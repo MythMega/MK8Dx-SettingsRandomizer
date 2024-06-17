@@ -1,0 +1,11 @@
+C:\Users\mythm\source\repos\MKSettingsRandomizer\bin\Debug\MKSettingsRandomizer.exe.config
+C:\Users\mythm\source\repos\MKSettingsRandomizer\bin\Debug\MKSettingsRandomizer.exe
+C:\Users\mythm\source\repos\MKSettingsRandomizer\bin\Debug\MKSettingsRandomizer.pdb
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.csproj.AssemblyReference.cache
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.Form1.resources
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.Properties.Resources.resources
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.csproj.GenerateResource.cache
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.exe
+C:\Users\mythm\source\repos\MKSettingsRandomizer\obj\Debug\MKSettingsRandomizer.pdb
